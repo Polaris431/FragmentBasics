@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *
- * The fragment used for articles.
+ * The fragment used for articles. Johann was here.
  */
 package com.example.android.fragments;
 
